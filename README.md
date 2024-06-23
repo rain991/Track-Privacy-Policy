@@ -12,7 +12,7 @@ We do not use cookies or any other tracking technologies to collect information 
 
 ## Third-Party Services
 
-Our app may use third-party services that collect information for analytics purposes. These services may use cookies and other tracking technologies to collect information about your use of our app. This information is used to help us improve our app and services.
+Our app may use third-party services, which are not collecting or exposing your personal data.
 
 ## Children's Privacy
 
